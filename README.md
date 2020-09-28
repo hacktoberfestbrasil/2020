@@ -4,6 +4,8 @@ Estamos muito animados por você ter decidido descobrir contribuir com o _conhec
 - [x] [Inscreva-se no evento](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
 - [x] Leia o regulamento abaixo e comece (***entre 1 e 31 de outubro de 2020***)
 - [x] [Veja dicas de projetos para contribuir](https://github.com/hacktoberfestbrasil/2020/blob/master/CONTRIBUTING.md) ou escolha você mesmo alguns projetos
+- [x] Acesse nosso [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr)
+
 
 ## [Introdução ao Hacktoberfest Brasil 2020](https://hacktoberfest.digitalocean.com/details#get-started)
 Pedimos a todos os participantes que leiam os detalhes para garantir que a comunidade global esteja trabalhando em prol de um objetivo comum. Obrigado por honrar os valores e seguir as regras de participação.
