@@ -1,5 +1,16 @@
-# Como Contribuir para o Open Source
-Quer contribuir para o open source? Um guia sobre como fazer contribuições, para novatos e veteranos.
+# Dicas de projetos que precisam de contribuição
+
+> ### Tem um projeto que precisa de contribuição? Edite o arquivo e adicione aqui : )
+
+---
+
+## DevParaná Website
+Site da comunidade do Dev Paraná, a comunidade que iniciou em 2015 em Marginá-PR e hoje apoia eventos em várias outras cidades do estado.
+
+- [Acessando o repositório](https://github.com/DeveloperParana/developerparana.github.io), você verá como iniciar uma contribuição.
+- Então veja suas [Issues](https://github.com/DeveloperParana/developerparana.github.io/issues) para identificar o que o projeto está precisando.
+
+---
 
 ## Por que contribuir para o open source?
 Contribuir para o open source pode ser uma maneira gratificante de aprender, ensinar e construir experiência em praticamente qualquer habilidade que você possa imaginar.
@@ -14,12 +25,14 @@ Contribuir para o open source pode ser uma maneira gratificante de aprender, ens
 - É empoderador poder fazer mudanças, mesmo pequenas
 
 
-## Como submeter uma contribuição
+## Quer contribuir com conhecimento para comunidade?
 Você gostou do evento e está pronto para fazer uma contribuição. Finalmente!
 
 Gostaria de falar sobre algum assunto ou transmitir conhecimento com um workshop?
 
-## [Quero contribuir](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
 
+## [Abra uma issue](https://github.com/hacktoberfestbrasil/2020/issues/new/choose) sobre o assunto que gostaria de apresentar
+
+---
 Fonte original e crédito
 https://opensource.guide/pt/how-to-contribute
