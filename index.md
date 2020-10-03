@@ -1,11 +1,16 @@
 
 Estamos muito animados por você ter decidido descobrir contribuir com o _conhecimento open source_ . Agora que você está aqui, faça o seguinte.
 
-- [x] [Inscreva-se no evento](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
-- [x] Leia o regulamento abaixo e comece (***entre 1 e 31 de outubro de 2020***)
-- [x] [Veja dicas de projetos para contribuir](https://github.com/hacktoberfestbrasil/2020/blob/master/CONTRIBUTING.md) ou escolha você mesmo alguns projetos
+1. [x] [Inscreva-se no evento](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
+1. [x] [Leia o regulamento abaixo](#detalhes-de-participação)
+1. [x] [Veja dicas de projetos para contribuir](https://github.com/hacktoberfestbrasil/2020/blob/master/CONTRIBUTING.md) (ou escolha você mesmo)
+1. [x] Contribua : )
 
+## Provocação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-d_hktsbPZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Reflexão
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vPDGizP_PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Introdução ao Hacktoberfest Brasil 2020
 Pedimos a todos os participantes que leiam os detalhes para garantir que a comunidade global esteja trabalhando em prol de um objetivo comum. Obrigado por honrar os valores e seguir as regras de participação.
