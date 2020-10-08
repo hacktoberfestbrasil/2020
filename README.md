@@ -2,7 +2,7 @@
 Estamos muito animados por você ter entendido _[#OqueSignificaContribuir](https://www.google.com/search?q=%23OqueSignificaContribuir)_ <span style="font-size: 24px; line-height: 0px; padding-left: 8px">😉 </span>
 # 
 
-> # Participe do nossos _meetups online_
+> # Participe dos nossos _meetups online_
 Serão dois dias de eventos online, dia 17/10 com introdução ao open source, palestras e troca de ideias e dia 31/10 com encerramento, painel sobre licença de software com todos palestrantes e interação via chat para peguntas dos participantes, disponibilizamos um [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr) onde estão conectados também outros hacktoberfests ao redor do mundo com um canal para este em específico. Também teremos o chat do aplicativo de transmissão utilizado, informaremos em alguns dias se usaremos o Meet ou Youtube.
 
 > ### _O link do [meetup oficial](http://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online) foi fornecido pela própria [DigitalOcean](https://hacktoberfest.digitalocean.com/eventkit)_
