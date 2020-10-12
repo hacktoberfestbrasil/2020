@@ -3,7 +3,7 @@ Estamos muito animados por você ter entendido _[#OqueSignificaContribuir](https
 # 
 
 > # Participe dos nossos _meetups online_
-Serão dois dias de eventos online, dia 17/10 com introdução ao open source, palestras e troca de ideias e dia 31/10 com encerramento, painel sobre licença de software com todos palestrantes e interação via chat para peguntas dos participantes, disponibilizamos um [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr) onde estão conectados também outros hacktoberfests ao redor do mundo com um canal para este em específico. Também teremos o chat do aplicativo de transmissão utilizado, informaremos em alguns dias se usaremos o Meet ou Youtube.
+Serão dois dias de eventos online, dia 17/10 com introdução ao open source, palestras e troca de ideias e dia 31/10 com encerramento, painel sobre licença de software com todos palestrantes e interação via chat para perguntas dos participantes, disponibilizamos um [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr) onde estão conectados também outros hacktoberfests ao redor do mundo com um canal para este em específico. Também teremos o chat do aplicativo de transmissão utilizado, informaremos em alguns dias se usaremos o Meet ou Youtube.
 
 > ### _O link do [meetup oficial](http://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online) foi fornecido pela própria [DigitalOcean](https://hacktoberfest.digitalocean.com/eventkit)_
 > 
@@ -15,8 +15,8 @@ Serão dois dias de eventos online, dia 17/10 com introdução ao open source, p
 > Ou usem os links que deixamos abaixo
 > <span style="font-size: 24px; padding-left: 8px">⬇︎</span>
 
-- ## [Incrição dia 1, 17/10](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
-- ## Incrição dia 2, 31/19 (link ainda não publicado)
+- ## [Inscrição dia 1, 17/10](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
+- ## Inscrição dia 2, 31/19 (link ainda não publicado)
 
 - ### [Leia o regulamento abaixo](#introdu%C3%A7%C3%A3o-ao-hacktoberfest-brasil-2020)
 - ### [Dicas de projetos para contribuir](./CONTRIBUTING.md)
@@ -43,7 +43,7 @@ Pedimos a todos os participantes que leiam os detalhes para garantir que a comun
 #### [Oficial em inglês](https://hacktoberfest.digitalocean.com/details#details)
 - O Hacktoberfest está aberto a todos em nossa comunidade global. Quer você seja um contribuidor experiente ou esteja procurando projetos para contribuir pela primeira vez, sinta-se à vontade para participar.
 - As `pull requests` podem ser feitas em qualquer repositório / projeto hospedado no GitHub. Contanto que o projeto seja público e hospedado no GitHub, suas `pull requests` contarão para sua participação.
-- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no site oficial do Hacktoberfest para que suas solicitações de pull sejam contabilizadas.
+- Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no [site oficial do Hacktoberfest](https://hacktoberfest.digitalocean.com/) para que suas solicitações de pull sejam contabilizadas.
 
 
 ## Regras de participação
