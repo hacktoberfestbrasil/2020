@@ -25,7 +25,7 @@ Serão dois dias de eventos online, dia 17/10 com introdução ao open source, p
 ---
 
 > ## _Regulamento_
-> # Para participar do desafio de `pull requests`, leia o regulamento abaixo e [cadastre-se](https://hacktoberfest.digitalocean.com/login)
+> # Para participar do desafio de `pull requests` (PRs), leia o regulamento abaixo e [cadastre-se](https://hacktoberfest.digitalocean.com/login)
 
 1. Tabela de conteúdo
     1. [Introdução ao Hacktoberfest Brasil 2020](#introdu%C3%A7%C3%A3o-ao-hacktoberfest-brasil-2020)
@@ -45,6 +45,24 @@ Pedimos a todos os participantes que leiam os detalhes para garantir que a comun
 - As `pull requests` podem ser feitas em qualquer repositório / projeto hospedado no GitHub. Contanto que o projeto seja público e hospedado no GitHub, suas `pull requests` contarão para sua participação.
 - Você pode se inscrever a qualquer momento entre 1º de outubro e 31 de outubro. Apenas certifique-se de se inscrever no [site oficial do Hacktoberfest](https://hacktoberfest.digitalocean.com/) para que suas solicitações de pull sejam contabilizadas.
 
+## Atualização nas regras (05/10/2020 15:00 UTC)
+#### [Oficial em inglês](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
+- Os PRs válidos antes desta data permacerão válidos.
+- O repositório além de ser público, ele deve possuir o tópico `hacktoberfest` para que o `pull request` seja válido.
+- Se o repositório não possuir o tópico `hacktoberfest`, o proprietário do repositório pode adicionar a etiqueta `hacktoberfest-accepted` no `pull request`, assim, validando ele pro evento mesmo sem a presença do tópico.
+
+- Novas regras com o espírito do <b>Hacktoberfest</b>
+```JavaScript
+PRs são válidos if:
+    'Submetido durante o mês de Outubro' AND
+    'Submetido em um repositório público' AND (
+        'O PR é etiquedado como hacktoberfest-accepted por um mantenedor' OR
+        'Submetido em um repositório com o tópico hacktoberfest' AND (
+            'O PR é mergeado' OR
+            'O PR ter sido aprovado'
+        )
+    ) 
+```
 
 ## Regras de participação
 #### [Oficial em inglês](https://hacktoberfest.digitalocean.com/details#rules)
