@@ -2,6 +2,8 @@
 Estamos muito animados por você ter entendido _[#OqueSignificaContribuir](https://www.google.com/search?q=%23OqueSignificaContribuir)_ <span style="font-size: 24px; line-height: 0px; padding-left: 8px">😉 </span>
 # 
 
+> # [Inscreva-se, sábado dia 31/19](https://organize.mlh.io/participants/events/5320-hacktoberfest-brasil-online-encerramento)
+
 > # Participe dos nossos _meetups online_
 Serão dois dias de eventos online, dia 17/10 com introdução ao open source, palestras e troca de ideias e dia 31/10 com encerramento, painel sobre licença de software com todos palestrantes e interação via chat para perguntas dos participantes, disponibilizamos um [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr) onde estão conectados também outros hacktoberfests ao redor do mundo com um canal para este em específico. Também teremos o chat do aplicativo de transmissão utilizado, informaremos em alguns dias se usaremos o Meet ou Youtube.
 
@@ -15,8 +17,9 @@ Serão dois dias de eventos online, dia 17/10 com introdução ao open source, p
 > Ou usem os links que deixamos abaixo
 > <span style="font-size: 24px; padding-left: 8px">⬇︎</span>
 
-- ## [Inscrição dia 1, 17/10](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
-- ## Inscrição dia 2, 31/19 (link ainda não publicado)
+- # [Inscreva-se, sábado dia 31/19](https://organize.mlh.io/participants/events/5320-hacktoberfest-brasil-online-encerramento)
+
+- ## Inscrição dia 1, 17/10 - Já passou - [Assistir abertura](https://youtu.be/B1cc706vhHs?t=408) [link do evento](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
 
 - ### [Leia o regulamento abaixo](#introdu%C3%A7%C3%A3o-ao-hacktoberfest-brasil-2020)
 - ### [Dicas de projetos para contribuir](./CONTRIBUTING.md)
