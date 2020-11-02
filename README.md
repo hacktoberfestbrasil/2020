@@ -2,24 +2,32 @@
 Estamos muito animados por você ter entendido _[#OqueSignificaContribuir](https://www.google.com/search?q=%23OqueSignificaContribuir)_ <span style="font-size: 24px; line-height: 0px; padding-left: 8px">😉 </span>
 # 
 
-> # [Inscreva-se, sábado dia 31/19](https://organize.mlh.io/participants/events/5320-hacktoberfest-brasil-online-encerramento)
-
 > # Participe dos nossos _meetups online_
 Serão dois dias de eventos online, dia 17/10 com introdução ao open source, palestras e troca de ideias e dia 31/10 com encerramento, painel sobre licença de software com todos palestrantes e interação via chat para perguntas dos participantes, disponibilizamos um [Chat](https://hacktoberfest.cloud.mattermost.com/main/channels/hackbr) onde estão conectados também outros hacktoberfests ao redor do mundo com um canal para este em específico. Também teremos o chat do aplicativo de transmissão utilizado, informaremos em alguns dias se usaremos o Meet ou Youtube.
 
-> ### _O link do [meetup oficial](http://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online) foi fornecido pela própria [DigitalOcean](https://hacktoberfest.digitalocean.com/eventkit)_
-> 
->
-> Também podem nos encontrar pesquisando `Brasil online` na [busca de eventos](https://hacktoberfest.digitalocean.com/events)
-> 
->
-> <span style="font-size: 24px; padding-right: 8px">⬇︎</span>
-> Ou usem os links que deixamos abaixo
-> <span style="font-size: 24px; padding-left: 8px">⬇︎</span>
+Assista o evento no Youtube:
 
-- # [Inscreva-se, sábado dia 31/19](https://organize.mlh.io/participants/events/5320-hacktoberfest-brasil-online-encerramento)
+### Live do dia 17/10
+https://youtu.be/B1cc706vhHs?t=256
 
-- ## Inscrição dia 1, 17/10 - Já passou - [Assistir abertura](https://youtu.be/B1cc706vhHs?t=408) [link do evento](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
+### Palestras do dia 31/10
+- Alvaro Neto: Po-Ui https://youtu.be/dEENiQ3y1A4
+    A jornada da criação de um Design System Open Source
+- William Grasel https://youtu.be/i1syrPOr-Ak
+    Publicando projetos open source com JavaScript
+- Américo Neto https://youtu.be/NNDx5ncUES4
+    Automatizando a publicação de pacotes com Semantic release
+- Eduardo Villas Boas https://youtu.be/DppTBLKHs50
+    Design e arquitetura voltada para testes
+- Flavio Correa https://youtu.be/86AhqDu1kJg
+    NVDA, um leitor de tela gratuito, de código aberto e acessível globalmente para cegos e deficientes visuais.
+- Sebastian Ferrari https://youtu.be/Vo0UT8SysVs
+    Como o Open Source pode contribuir para a cultura das empresas
+- Elton Minetto https://youtu.be/pUl1eTTCcc4
+    Arquitetura de software e a Clean Architecture
+- Edson Yanaga https://youtu.be/uBPJup0zF-8
+    Grandes empresas no mercado Open Source (Painel)
+
 
 - ### [Leia o regulamento abaixo](#introdu%C3%A7%C3%A3o-ao-hacktoberfest-brasil-2020)
 - ### [Dicas de projetos para contribuir](./CONTRIBUTING.md)
